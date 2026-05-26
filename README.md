@@ -55,7 +55,7 @@
 
 - uniapp 的跨端原理是什么
 
-### HTTP
+### Http
 
 - http 常用响应码有哪些
 - 说下 http 的缓存策略
