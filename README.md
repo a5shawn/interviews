@@ -14,7 +14,7 @@
 
 - 闭包是什么，有哪些应用场景
 - 说说深浅拷贝有哪些，如何实现深拷贝
-- 说说 JS 事件循环
+- [说说 JS 事件循环](./frontend/javascript事件循环.md)
 - null 和 undefined 的区别
 - 说说防抖和节流及其应用场景
 - 跨域及解决办法
@@ -24,9 +24,9 @@
 
 ### TypeScript
 
-- [TS类型有哪些](./frontend/typescript类型.md)
-- 项目中怎么使用TS的
-- 泛型有什么优势
+- [TS 类型有哪些](./frontend/typescript类型.md)
+- [什么是泛型，有什么优势](./frontend/typescript泛型.md)
+- [interface 和 type 有什么区别](./frontend/interface和type区别.md)
 
 ### Vue
 
