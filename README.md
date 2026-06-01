@@ -12,15 +12,15 @@
 
 ### JavaScript
 
-- 闭包是什么，有哪些应用场景
-- 说说深浅拷贝有哪些，如何实现深拷贝
+- [闭包是什么，有哪些应用场景](./frontend/闭包及场景.md)
+- [说说深浅拷贝有哪些，如何实现深拷贝](./frontend/深浅拷贝及实现.md)
 - [说说 JS 事件循环](./frontend/javascript事件循环.md)
 - null 和 undefined 的区别
 - 说说防抖和节流及其应用场景
 - 跨域及解决办法
 - 如何保证多个请求完成？怎么定位失败的是哪个请求？如何取消请求
 - 说说原型和原型链，原型链解决了什么问题
-- Promise有哪些常用的方法，分别都是干嘛的
+- [说说 Promise](./frontend/promise.md)
 
 ### TypeScript
 
@@ -33,6 +33,7 @@
 - [vue2 和 vue3 有什么区别](./frontend/vue2和vue3区别.md)
 - 父子组件生命周期执行顺序
 - watch 和 watchEffect 区别
+- [watch 和 computed 区别](./frontend/watch和computed区别.md)
 - 二次封装过哪些组件，怎么封装的
 - Vue3 定义响应式有哪些方式
 - nextTick 是什么任务
